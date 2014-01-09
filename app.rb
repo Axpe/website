@@ -5,6 +5,6 @@ get '/' do
 end
 
 get '/credits' do
-	'Borja Martin'
+	'Axpe Community'
 end
 
