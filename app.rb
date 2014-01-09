@@ -8,3 +8,7 @@ get '/credits' do
 	'Axpe Community'
 end
 
+get '/home'
+	'Axpe Consulting'
+end
+
